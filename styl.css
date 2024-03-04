@@ -1,10 +1,5 @@
-h1 {
-  color: red;
-  font-family: monospace;
+p {
+  text-align: center;
+  color: blueviolet;
 }
-
-main {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+<link referrerpolicy="stylsheet"href="styl.css"
